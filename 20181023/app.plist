@@ -17,13 +17,13 @@
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>★アプリのシグネチャ★</string>
+    <string>jp.co.hakusan.iphone.safetyChart</string>
     <key>bundle-version</key>
-    <string>1.1</string>
+    <string>1.0.2</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>Menkuten</string>
+    <string>あんしんカルテ</string>
    </dict>
   </dict>
  </array>
